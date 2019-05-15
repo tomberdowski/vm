@@ -1,1 +1,1 @@
-some text [how to make an independent website](overview.md)
+some text [how to make an independent website](pages/overview.md)
