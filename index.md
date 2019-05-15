@@ -1,3 +1,0 @@
-So it is htis...
-
-[how to make an independent website](overview.html)
