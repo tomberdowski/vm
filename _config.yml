@@ -1,3 +1,9 @@
 theme: jekyll-theme-dinky
 
+title : Tarantula
+author :
+  name : Tom Berdowski
+  email : tom.j.b@pm.me
+  github : tomberdowski
+
 show_downloads: true
